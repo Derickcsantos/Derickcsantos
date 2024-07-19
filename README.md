@@ -8,18 +8,18 @@
 - 📫 How to reach me by instagram profile: @derick.c.s
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Play Basketball
-# Tecnologias Mais Frequentes no Meu Perfil
+# Meus conhecimentos
 
 | Categoria         | Tecnologias                              |
 |-------------------|------------------------------------------|
-| Linguagens        | Python, JavaScript, Java                  |
-| Frameworks        | Django, React, Spring Boot                |
-| Banco de Dados    | PostgreSQL, MySQL, MongoDB                |
-| Ferramentas       | Git, Docker, VS Code                     |
-| Frontend          | HTML5, CSS3, JavaScript (ES6+)           |
-| Backend           | Node.js, Flask, Express                  |
-| Cloud             | AWS, Azure, Google Cloud Platform         |
-| Outros            | RESTful APIs, GraphQL, CI/CD             |
+| Linguagens        | JavaScript                               |
+| Frameworks        | Bootstrap5                               |
+| Banco de Dados    | PHP, MySQL                               |
+| Ferramentas       | VS Code, Git & GitHub                    |
+| Frontend          | HTML5, CSS3, JavaScript                  |
+| Desing            | Photoshop, Illustrator, Figma            |
+
+
 
 
 
