@@ -1,4 +1,4 @@
-# Olá! Eu sou o Dérick Campos Santos
+# Seja Bem Vindo! Eu sou o Dérick Campos Santos
 
 
 - 👋 Hi, I’m @Derickcsantos
