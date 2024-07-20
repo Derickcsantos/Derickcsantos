@@ -1,8 +1,5 @@
 # Seja Bem Vindo! Eu sou o Dérick Campos Santos
 
-# Me contate
-
-E-mail: derickcampossantos1@gmail.com
 
 # Meus conhecimentos
 
