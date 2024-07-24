@@ -11,7 +11,7 @@
 |-------------------|------------------------------------------|     
 | Linguagens        | JavaScript                               |
 | Frameworks        | Bootstrap5                               |
-| Banco de Dados    | MySQL,PHP                                |
+| Banco de Dados    | MySQL                                    |
 | Ferramentas       | VS Code, Git & GitHub                    |
 | Frontend          | HTML5, CSS3, JavaScript                  |
 | Desing            | Photoshop, Illustrator, Figma            |
