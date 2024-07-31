@@ -17,13 +17,17 @@
 | Desing            | Photoshop, Illustrator, Figma            |
 
 
-# Meus Status
+<h2 align="center">  📊 Meus Status 📊 </h2>
+
+
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent)
 ![Dérick GitHub stats](https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs)
 
 
-<h2 align="center"> Contato
+<h2 align="center"> ✉️ Contato ✉️ </h2>
+
+
 
 Phone: 55+(11) 986261007
 
@@ -33,6 +37,8 @@ Email: derickcampossantos1@gmail.com
 
 <!-- GitHub Conquistas -->
 <h2 align="center">🏆 Conquistas 🏆</h2>
+
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Conquistas Github" title="Conquistas Github" src="https://github-profile-trophy.vercel.app/?username=derickcsantos&theme=darkhub" /></a>
