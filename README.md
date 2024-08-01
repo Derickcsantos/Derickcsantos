@@ -30,8 +30,8 @@
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent)
-![Dérick GitHub stats](https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&card_width=400px&height=700px)
+![Dérick GitHub stats](https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
 
 
 # <h2 align="center"> ✉️ Contato ✉️ </h2>
