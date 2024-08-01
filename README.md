@@ -17,14 +17,14 @@
 
 # <h2 align="center">  📖 Meus conhecimentos 📖 </h2>
 
-| Categoria         | Tecnologias                              |  
-|-------------------|------------------------------------------|     
-| Linguagens        | JavaScript                               |
-| Frameworks        | Bootstrap5                               |
-| Banco de Dados    | MySQL                                    |
-| Ferramentas       | VS Code, Git & GitHub                    |
-| Frontend          | HTML5, CSS3, JavaScript                  |
-| Desing            | Photoshop, Illustrator, Figma            |
+  | Categoria               | Tecnologias                                       |  
+  |-------------------------|---------------------------------------------------|     
+  | Linguagens              | JavaScript, Node.js, C#                           |
+  | Frameworks              | Bootstrap5, React                                 |
+  | Banco de Dados          | MySQL Workbench                                   |
+  | Ferramentas             | Visual Studio Code, Visual studio, Git & GitHub   |
+  | Frontend                | HTML5, CSS3                                       |
+  | Desing                  | Photoshop, Adobe Illustrator, Figma               |
 
 
 # <h2 align="center">  📊 Meus Status 📊 </h2>
