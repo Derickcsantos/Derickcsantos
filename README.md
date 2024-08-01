@@ -24,12 +24,12 @@
 
 
 # <h2 align="center">  📖 Meus conhecimentos 📖 </h2>
+| Frontend   | Frameworks | Design            | Linguagens   | Banco de Dados    |
+|:-----------|:-----------|:------------------|:-------------|:------------------|
+| HTML5      | Bootstrap5 | Photoshop         | JavaScript   | MySQL Workbench   |
+| CSS3       | React      | Adobe Illustrator | Node.js      |                   |
+| JavaScript |            | Figma             | C#           |                   |
 
- |  Frontend | Frameworks | Desing            |  Linguagens   | Banco de Dados    |  
- |-----------|------------|-------------------|---------------|-------------------|     
- | HTML5     |Bootstrap5  |Photoshop          | JavaScript    | MySQL Workbench   |
- | CSS3      | React      |Adobe Illustrator  | Node.js       |                   |
- | JavaScript|            |Figma              | C#            |                   |
  
  
 
@@ -38,8 +38,11 @@
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&card_width=400px&height=700px)
-![Dérick GitHub stats](https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&card_width=400px&height=700px" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="Dérick GitHub Stats">
+</p>
+
 
 
 # <h2 align="center"> ✉️ Contato ✉️ </h2>
@@ -49,7 +52,23 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derickcampossantos/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derick_profissional) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derickcsantos) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](derickcampossantos1@gmail.com)  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511986261007&text=Fale+conosco&type=phone_number&app_absent=0)
+<p align="center">
+  <a href="https://www.linkedin.com/in/derickcampossantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/derick_profissional">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/derickcsantos">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:derickcampossantos1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5511986261007&text=Fale+conosco&type=phone_number&app_absent=0">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 # <!-- GitHub Conquistas -->
 <h2 align="center">🏆 Conquistas 🏆</h2>
