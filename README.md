@@ -24,11 +24,15 @@
 
 
 # <h2 align="center">  📖 Meus conhecimentos 📖 </h2>
+<div align="center">
+
 | Frontend   | Frameworks | Design            | Linguagens   | Banco de Dados    |
 |:-----------|:-----------|:------------------|:-------------|:------------------|
 | HTML5      | Bootstrap5 | Photoshop         | JavaScript   | MySQL Workbench   |
 | CSS3       | React      | Adobe Illustrator | Node.js      |                   |
 | JavaScript |            | Figma             | C#           |                   |
+
+</div>
 
  
  
