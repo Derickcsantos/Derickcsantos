@@ -43,8 +43,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&card_width=400px&height=700px" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="Dérick GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=000991&text_color=000991&card_width=400px&height=700px" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs&title_color=000991&icon_color=000991&text_color=000991" alt="Dérick GitHub Stats">
 </p>
 
 
