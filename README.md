@@ -30,7 +30,7 @@
 |:-----------|:-----------|:------------------|:-------------|:------------------|
 | HTML5      | Bootstrap5 | Photoshop         | JavaScript   | MySQL Workbench   |
 | CSS3       | React      | Adobe Illustrator | Node.js      | IndexedDB         |
-| JavaScript |            | Figma             | PHP          | Mongo DB          |
+| JavaScript | Express.js | Figma             | PHP          | Mongo DB          |
 
 </div>
 
