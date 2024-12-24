@@ -26,11 +26,11 @@
 # <h2 align="center">  📖 Meus conhecimentos 📖 </h2>
 <div align="center">
 
-| Frontend   | Frameworks | Design            | Linguagens   | Banco de Dados    |
-|:-----------|:-----------|:------------------|:-------------|:------------------|
-| HTML5      | Bootstrap5 | Photoshop         | JavaScript   | MySQL Workbench   |
-| CSS3       | React      | UI UX             | Node.js      | IndexedDB         |
-| JavaScript | Express.js | Figma             | PHP          | Mongo DB          |
+| Frontend   | Frameworks | Design     | Linguagens   | Banco de Dados    | Outros  |
+|:-----------|:-----------|:-----------|:-------------|:------------------|---------|
+| HTML5      | Bootstrap5 | Photoshop  | JavaScript   | MySQL Workbench   | SEO     |
+| CSS3       | React      | UI UX      | Node.js      | IndexedDB         |         |
+| JavaScript | Express.js | Figma      | PHP          | Mongo DB          |         |
 
 </div>
 
