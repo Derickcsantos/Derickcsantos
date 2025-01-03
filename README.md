@@ -29,7 +29,7 @@
 | Frontend   | Frameworks | Design     | Linguagens   | Banco de Dados    | Outros  |
 |:-----------|:-----------|:-----------|:-------------|:------------------|---------|
 | HTML5      | Bootstrap5 | Photoshop  | JavaScript   | MySQL Workbench   | SEO     |
-| CSS3       | React      | UI UX      | Node.js      | IndexedDB         |         |
+| CSS3       | React      | UI UX      | Node.js      | IndexedDB         | Deploy  |
 | JavaScript | Express.js | Figma      | PHP          | Mongo DB          |         |
 
 </div>
