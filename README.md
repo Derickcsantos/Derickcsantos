@@ -28,9 +28,9 @@
 
 | Frontend   | Frameworks | Design     | Linguagens   | Banco de Dados    | Outros  |
 |:-----------|:-----------|:-----------|:-------------|:------------------|---------|
-| HTML5      | Bootstrap5 | Photoshop  | JavaScript   | MySQL Workbench   | SEO     |
-| CSS3       | React      | UI UX      | Node.js      | IndexedDB         | Deploy  |
-| JavaScript | Express.js | Figma      |              | Mongo DB          |         |
+| HTML       | Bootstrap  | Photoshop  | JavaScript   | MySQL             | SEO     |
+| CSS        | React      | UI UX      | Node.js      | IndexedDB         | Deploy  |
+| JavaScript | Express.js | Figma      |              | MongoDB           |         |
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=808080&text_color=808080&card_width=400px&height=700px" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080" alt="Dérick GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Derickcsantos&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080&height=700px" alt="Dérick GitHub Stats">
 </p>
 
 
