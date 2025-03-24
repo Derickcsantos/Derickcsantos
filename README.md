@@ -29,8 +29,8 @@
 | Frontend   | Frameworks | Design     | Linguagens   | Banco de Dados    | Outros  |
 |:-----------|:-----------|:-----------|:-------------|:------------------|---------|
 | HTML       | Bootstrap  | Photoshop  | JavaScript   | MySQL             | SEO     |
-| CSS        | React      | UI UX      | Node.js      | IndexedDB         | Deploy  |
-| JavaScript | Express.js | Figma      |              | MongoDB           |         |
+| CSS        | React.js   | UI UX      | Node.js      | IndexedDB         | Deploy  |
+| JavaScript | Express.js | Figma      |              | MongoDB           | Git     |
 
 </div>
 
