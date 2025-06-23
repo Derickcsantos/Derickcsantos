@@ -36,11 +36,12 @@
 # <h2 align="center">  📖 Meus conhecimentos 📖 </h2>
 <div align="center">
 
-| Frontend   |Backend     | Frameworks | Design     | Banco de Dados | Outros  |
-|:-----------|:-----------|:-----------|:-----------|:---------------|:--------|
-| HTML       | Node.js    | Bootstrap  | Photoshop  | MySQL          | SEO     |
-| CSS        | C#         | React.js   | UI UX      | Postgrees      | Deploy  |
-| JavaScript |            | Express.js | Figma      | MongoDB        | Git     |
+| Frontend   |Backend     | Ferramentas  | Design     | Banco de Dados | Outros  |
+|:-----------|:-----------|:-------------|:-----------|:---------------|:--------|
+| HTML       | Node.js    | Bootstrap    | Photoshop  | MySQL          | SEO     |
+| CSS        | C#         | React.js     | UI UX      | Postgrees      | Deploy  |
+| JavaScript |            | Express.js   | Figma      | MongoDB        | Git     |
+|            |            | Tailwind.css |            |                |         |
 
 </div>
 
