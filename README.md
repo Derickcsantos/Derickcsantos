@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/C%23-%2368217A.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
@@ -27,6 +28,7 @@
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
 
@@ -37,7 +39,7 @@
 | Frontend   |Backend     | Frameworks | Design     | Banco de Dados | Outros  |
 |:-----------|:-----------|:-----------|:-----------|:---------------|:--------|
 | HTML       | Node.js    | Bootstrap  | Photoshop  | MySQL          | SEO     |
-| CSS        |            | React.js   | UI UX      | Supabase       | Deploy  |
+| CSS        | C#         | React.js   | UI UX      | Supabase       | Deploy  |
 | JavaScript |            | Express.js | Figma      | MongoDB        | Git     |
 
 </div>
