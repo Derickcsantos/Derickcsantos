@@ -41,7 +41,7 @@
 | HTML       | Node.js    | Bootstrap    | Photoshop  | MySQL          | SEO     |
 | CSS        | C#         | React.js     | UI UX      | Postgrees      | Deploy  |
 | JavaScript |            | Express.js   | Figma      | MongoDB        | Git     |
-|            |            | Tailwind.css |            |                |         |
+|            |            | TailwindCSS  |            |                |         |
 
 </div>
 
