@@ -51,7 +51,9 @@
 
 # <h2 align="center">  📊 Meus Status 📊 </h2>
 
-
+``` bash
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=808080&text_color=808080&card_width=400px&height=700px" alt="Top Languages">
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derickcsantos&layout=compact&theme=transparent&title_color=808080&text_color=808080&card_width=400px&height=700px" alt="Top Languages">
