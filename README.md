@@ -9,7 +9,16 @@
 
 
 ------------------------------------------------------------------------------
+<div align="center">
+    
+## Sobre mim
 
+</div>
+Desenvolvedor Front-end com 2 anos de experiência prática em projetos pessoais e acadêmicos. Atualmente atuo na área de infraestrutura de TI, com foco em cloud, redes e segurança, mas meu objetivo profissional está voltado para o desenvolvimento front-end, área pela qual sou verdadeiramente apaixonado.
+
+Ao longo da minha jornada, venho me dedicando ao estudo e à prática contínua de desenvolvimento de interfaces modernas, acessíveis e responsivas. Mesmo sem ainda atuar formalmente como desenvolvedor front-end em empresas, tenho buscado me aprimorar constantemente por meio de projetos próprios, desafios técnicos e aprendizados diários.
+
+------------------------------------------------------------------------------
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
