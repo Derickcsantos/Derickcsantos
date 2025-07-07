@@ -38,9 +38,9 @@
 | Frontend   |Backend     | Ferramentas  | Design     | Banco de Dados | Outros  |
 |:-----------|:-----------|:-------------|:-----------|:---------------|:--------|
 | HTML       | Node.js    | Bootstrap    | Photoshop  | MySQL          | SEO     |
-| CSS        | C#         | React.js     | UI UX      | Postgrees      | Deploy  |
+| CSS        | C#         | TailwindCSS  | UI UX      | PostgreSQL     | Deploy  |
 | JavaScript |            | Express.js   | Figma      | MongoDB        | Git     |
-|            |            | TailwindCSS  |            |                |         |
+| React      |            |              |            |                |         |
 
 </div>
 
