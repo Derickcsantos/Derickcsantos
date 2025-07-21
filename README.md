@@ -38,7 +38,7 @@
 | HTML       | Node.js    | Bootstrap    | Photoshop  | MySQL          | SEO     |
 | CSS        | Typescript | TailwindCSS  | UI UX      | PostgreSQL     | Deploy  |
 | JavaScript |            | Express.js   | Figma      | MongoDB        | Git     |
-| Vue.js     |            | Sassy CSS    |            |                |         |
+| Vue.js     |            | Sass CSS     |            |                |         |
 
 
 </div>
