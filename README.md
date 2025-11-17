@@ -33,12 +33,13 @@
 # <h2 align="center">  📖 Meus conhecimentos 📖 </h2>
 <div align="center">
 
-| Frontend   | Backend    | Ferramentas  | Design     | Banco de Dados | Testes   | Outros  |
-|:-----------|:-----------|:-------------|:-----------|:---------------|:---------|:--------|
-| HTML       | Node.js    | Bootstrap    | Photoshop  | MySQL          | Postman  | SEO     |
-| CSS        | Typescript | TailwindCSS  | UI UX      | PostgreSQL     | Jest     | Deploy  |
-| JavaScript | C#         | Express.js   | Figma      | MongoDB        | Jmeter   | Git     |
-| React      |            | Sass CSS     |            |                |          |         |
+| Frontend   | Backend    | Ferramentas  | Design     | Banco de Dados | Testes   | Cloud  | Outros  | 
+|:-----------|:-----------|:-------------|:-----------|:---------------|:---------|:-------|:--------|
+| HTML       | Node.js    | Bootstrap    | Photoshop  | MySQL          | Postman  | OCI    | SEO     |
+| CSS        | Typescript | TailwindCSS  | UI UX      | PostgreSQL     | Jest     | AWS    | Deploy  |
+| JavaScript | C#         | Express.js   | Figma      | MongoDB        | Jmeter   |        | Git     |
+| React      |            | Sass CSS     |            | Redis          | Swagger  |        |         |
+| Next       |            |              |            |                |          |        |         |
 
 
 </div>
