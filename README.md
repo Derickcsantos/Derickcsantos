@@ -37,9 +37,9 @@
 |:-----------|:-----------|:-------------|:-----------|:---------------|:---------|:-------|:--------|
 | HTML       | Node.js    | Bootstrap    | Photoshop  | MySQL          | Postman  | OCI    | SEO     |
 | CSS        | Typescript | TailwindCSS  | UI UX      | PostgreSQL     | Jest     | AWS    | Deploy  |
-| JavaScript | C#         | Express.js   | Figma      | MongoDB        | Jmeter   |        | Git     |
-| React      |            | Sass CSS     |            | Redis          | Swagger  |        |         |
-| Next       |            |              |            |                |          |        |         |
+| JavaScript | Nest.js    | Express.js   | Figma      | MongoDB        | Jmeter   |        | Git     |
+| React      | C#         | Sass CSS     |            | Redis          | Swagger  |        |         |
+| Next.js    |            |              |            |                |          |        |         |
 
 
 </div>
